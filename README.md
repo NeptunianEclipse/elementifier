@@ -1,7 +1,7 @@
 # Elementifier
 
 This is a Python script that when given a string or a list of strings, will output all ways of writing those strings using elemental 
-symbols. For example, the word `` can be written as `` and ``.
+symbols. For example, the word `barber` can be written as `BArBEr` and `BaRbEr`.
 
 ## Usage
 
